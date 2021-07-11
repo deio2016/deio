@@ -26,8 +26,8 @@ Route::get('/about', function () {
     return view('about', [
         "title" => "About",
         "name" => "Achmad Yani",
-        "email" => "achmadyani.2009@yahoo.com",
-        "image" => "yani.jpeg"
+        "email" => "deio.sport@yahoo.com",
+        "image" => "teddy.jpg"
     ]);
 });
 
